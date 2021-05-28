@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab8/Ex_test2.scala:13:18: value wrAddr is not a member of Lab8.Mem_Input[0m
+[0m[[0m[31merror[0m] [0m[0m            c.io.wrAddr.poke(0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab8/Ex_test2.scala:14:18: value rdAddr is not a member of Lab8.Mem_Input[0m
+[0m[[0m[31merror[0m] [0m[0m            c.io.rdAddr.poke(0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

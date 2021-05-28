@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Test1.Test1_Tests, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(gcd.GCDSpec, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Lab1.Ex_tests, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Lab1.Task2_tests, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest1_Tests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test1[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Lab2.Ex_tests1, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(gcd.gcd_tests, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEx_tests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test1[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Lab1.Ex_tests2, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Lab1.Ex_tests3, org.scalatest.tools.Framework$$anon$1@5399f6ef, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTask2_tests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEx_tests1:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgcd_tests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- GCD 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEx_tests2:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEx_tests3:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCDSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Gcd should calculate proper greatest common denominator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 6 seconds, 338 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1.Ex_tests3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab2.Ex_tests1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd.gcd_tests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1.Task2_tests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd.GCDSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1.Ex_tests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1.Ex_tests2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test1.Test1_Tests[0m

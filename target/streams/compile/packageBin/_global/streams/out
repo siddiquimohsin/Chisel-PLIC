@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/monis/Desktop/chisel-quickstart/target/scala-2.12/chisel-quickstart_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Test1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test1/Test1_12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Test1/Test1_12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test1/Test1_12$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Test1/Test1_12$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GcdInputBundle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd/GcdInputBundle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GcdOutputBundle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd/GcdOutputBundle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/gcd1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd/gcd1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/gcd1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd/gcd1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/DecoupledGcd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd/DecoupledGcd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd/GCD$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/gcd/GCD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Lab1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1/Exercise1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Lab1/Exercise1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1/Exercise1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Lab1/Exercise1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1/Exercise2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Lab1/Exercise2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1/Exercise2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes/Lab1/Exercise2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,160 @@
+1616424162073:test
+1616424273832:testOnly Test1.Test1_Tests
+1616424498243:test
+1616424556344:testOnly Test1.Test1_Tests
+1616424780721:test
+1616406805602:testOnly gcd.gcd_tests
+1616407724224:test
+1616407736852:testOnly gcd.gcd_tests
+1616407934918:run gcd1.scala
+1616408001523:testOnly gcd.gcd_tests
+1616408039945:test
+1616408230502:testOnly gcd.gcd_tests
+1616408536107:testOnly Test1.Test1_Tests
+1616409901330:run Exercise1.scala
+1616410559790:run gcd1.scala
+1616410608826:run GCD
+1616410611381:run GCD.scala
+1616410648256:test
+1616410693491:run Exercise1.scala
+1616410905283:run gcd1.scala
+1616411184460:testOnly Lab1.Exercise1
+1616413552000:test
+1616413586196:testOnly Lab1.Ex_tests
+1616413622629:testOnly Lab1.Ex_tests.scala
+1616413626100:test
+1616413890647:testOnly Lab1.Ex_tests.scala --backend-name verilator
+1616413935245:testOnly Lab1.Ex_tests.scala verilator
+1616413961949:testOnly Lab1.Ex_tests.scala backend-name verilator
+1616414090015:testOnly Lab1.Ex_tests.scala -- -DwriteVcd =1
+1616414108147:testOnly Lab1.Ex_tests -- -DwriteVcd=1
+1616414160805:test -- -DwriteVcd=1
+1616414175508:test -DwriteVcd=1
+1616414284467:help
+1616414579962:testOnly Lab1.Ex_tests -- -DwriteVcd=1
+1616414615781:testOnly gcd.gcd_tests -- -DwriteVcd=1
+1616414927002:test:runMain Lab1.Launcher Exercise1 --backend-name verilator
+1616415056018:testOnly Lab1.Ex_tests -- -DwriteVcd=1
+1616415070016:testOnly gcd.gcd_tests -- -DwriteVcd=1
+1616415192159:testOnly Lab1.Ex_tests
+1616415528495:test
+1616415596769:testOnly Lab1.Ex_tests
+1616415647579:test
+1616415685395:testOnly Lab1.Ex_tests
+1616415694927:testOnly Lab1.Ex_tests -- -DwriteVcd=1
+1616420652840:testOnly Lab2.Ex_tests -- -DwriteVcd=1
+1616420680668:testOnly Lab1.Ex_tests -- -DwriteVcd=1
+1616420688225:testOnly Lab2.Ex_tests2 -- -DwriteVcd=1
+1616420695054:testOnly Lab1.Ex_tests2 -- -DwriteVcd=1
+1616438484666:testOnly Lab1.Ex_tests3 -- -DwriteVcd=1
+1616440344347:testOnly Lab1.Task2_tests -- -DwriteVcd=1
+1616441454333:testOnly Lab2.EX_tests1 -- -DwriteVcd=1
+1616441592137:testOnly Lab2.EX_test1 -- -DwriteVcd=1
+1616441599284:testOnly Lab2.EX_tests1 -- -DwriteVcd=1
+1616441614349:testOnly Lab2.EX_test1 -- -DwriteVcd=1
+1616441774247:test
+1616441794783:testOnly Lab2.EX_test1 -- -DwriteVcd=1
+1616441929909:testOnly Lab2.Ex_test1 -- -DwriteVcd=1
+1616443624080:testOnly Lab2.Ex_test2 -- -DwriteVcd=1
+1616445262773:testOnly Lab2.Ex_test3 -- -DwriteVcd=1
+1616446025265:testOnly Lab2.Ex_test2 -- -DwriteVcd=1
+1616446028361:testOnly Lab2.Ex_test3 -- -DwriteVcd=1
+1616492017734:testOnly Lab2.Task1_test -- -DwriteVcd=1
+1616494106964:testOnly Lab2.Task2_test -- -DwriteVcd=1
+1616496423224:testOnly Lab2.Task1_test -- -DwriteVcd=1
+1616496599289:testOnly Lab2.Task2_test -- -DwriteVcd=1
+1616520650956:testOnly Lab1.Ex_test3 -- -DwriteVcd=1
+1616522121388:testOnly Lab2.Ex_test3 -- -DwriteVcd=1
+1616524967568:testOnly Lab1.Task2_tests -- -DwriteVcd=1
+1616578590213:testOnly Lab2.Task2_test -- -DwriteVcd=1
+1616581116015:testOnly Lab1.Ex_tests -- -DwriteVcd=1
+1616581222522:testOnly Lab1.Ex_test2 -- -DwriteVcd=1
+1616780617023:testOnly Lab3.Ex_test1 -- -DwriteVcd=1
+1616825260454:testOnly Lab3.Ex_test2 -- -DwriteVcd=1
+1616829008566:testOnly Lab3.Task1_test -- -DwriteVcd=1
+1616831463123:testOnly Lab3.Task2_test -- -DwriteVcd=1
+1616831829466:testOnly Lab3.Task3_test -- -DwriteVcd=1
+1616931643147:testOnly Lab3.Task2_test -- -DwriteVcd=1
+1616931778829:testOnly Lab3.Task3_test -- -DwriteVcd=1
+1616932376645:testOnly Lab3.Task2_test -- -DwriteVcd=1
+1616932539485:testOnly Lab3.Task3_test -- -DwriteVcd=1\\
+1616932544363:testOnly Lab3.Task3_test -- -DwriteVcd=1
+1617012469504:testOnly Lab3.Task1_test -- -DwriteVcd=1\\
+1617012517104:testOnly Lab3.Task1_test -- -DwriteVcd=1
+1617016159103:testOnly Lab3.Task2_test -- -DwriteVcd=1
+1617017885550:testOnly Lab3.Ex_test2 -- -DwriteVcd=1
+1617018108276:testOnly Lab3.Task2_test -- -DwriteVcd=1
+1617082771932:testOnly Lab4.Ex_test1 -- -DwriteVcd=1
+1617084269705:testOnly Lab3.Ex_test1 -- -DwriteVcd=1
+1617084277139:testOnly Lab4.Ex_test1 -- -DwriteVcd=1
+1617172421972:testOnly Lab4.ALU_EX -- -DwriteVcd=1
+1617172777064:testOnly Lab4.Ex_test1 -- -DwriteVcd=1
+1617205074194:testOnly Lab4.Task2_test -- -DwriteVcd=1
+1617205910203:testOnly Lab4.Task1_test -- -DwriteVcd=1
+1617265546846:testOnly Lab4.Task2_test -- -DwriteVcd=1
+1617268318698:testOnly Lab4.Task1_test -- -DwriteVcd=1
+1617268979683:testOnly Lab4.Ex_test1 -- -DwriteVcd=1
+1617270202789:testOnly Lab4.Task2_test -- -DwriteVcd=1
+1617272340190:testOnly Lab4.Ex_test1 -- -DwriteVcd=1
+1617272345345:testOnly Lab4.Task2_test -- -DwriteVcd=1
+1617553792266:testOnly Lab5.Ex_test1 -- -DwriteVcd=1
+1617555721755:testOnly Lab5.Ex_test2 -- -DwriteVcd=1
+1617556810446:testOnly Lab5.Ex_test3 -- -DwriteVcd=1
+1617557094678:testOnly Lab5.Ex_test2 -- -DwriteVcd=1
+1617557214602:testOnly Lab5.Ex_test3 -- -DwriteVcd=1
+1617557217395:testOnly Lab5.Ex_test2 -- -DwriteVcd=1
+1617557255889:testOnly Lab5.Ex_test3 -- -DwriteVcd=1
+1617557260355:testOnly Lab5.Ex_test2 -- -DwriteVcd=1
+1617557263702:testOnly Lab5.Ex_test3 -- -DwriteVcd=1
+1617557865451:testOnly Lab5.Task1_test -- -DwriteVcd=1
+1617614682368:testOnly Lab5.Ex_test3 -- -DwriteVcd=1
+1617618141990:testOnly Lab5.Task3_test -- -DwriteVcd=1
+1617618502963:testOnly Lab5.Ex_test3 -- -DwriteVcd=1
+1617623357281:testOnly Lab5.Task2_test -- -DwriteVcd=1
+1617692314800:testOnly Lab5.Ex_test3 -- -DwriteVcd=1
+1617703668325:testOnly Lab6.Ex_test1 -- -DwriteVcd=1
+1617707287429:testOnly Lab6.Ex_test2 -- -DwriteVcd=1
+1617710224268:testOnly Lab6.Ex_test3 -- -DwriteVcd=1
+1617773359589:testOnly Lab6.Ex_test1 -- -DwriteVcd=1
+1617774175393:testOnly Lab6.Ex_test2 -- -DwriteVcd=1
+1617784291055:testOnly Lab6.Ex_test3 -- -DwriteVcd=1
+1617785472890:testOnly Lab6.Task2_test -- -DwriteVcd=1
+1617788215323:testOnly Lab1.Ex_test2 -- -DwriteVcd=1
+1617788492246:testOnly Lab6.Task2_test -- -DwriteVcd=1
+1617789668696:testOnly Lab6.Task3_test -- -DwriteVcd=1
+1617791339566:testOnly Lab6.Task4_test -- -DwriteVcd=1
+1617791461433:testOnly Lab6.Task3_test -- -DwriteVcd=1
+1617791475843:testOnly Lab6.Task4_test -- -DwriteVcd=1
+1617791523128:testOnly Lab6.Task3_test -- -DwriteVcd=1
+1617791526412:testOnly Lab6.Task4_test -- -DwriteVcd=1
+1617794011561:testOnly Lab6.Task3_test -- -DwriteVcd=1
+1617796809651:testOnly Lab6.Task4_test -- -DwriteVcd=1
+1617796942353:testOnly Lab6.Ex__test4 -- -DwriteVcd=1
+1617796945744:testOnly Lab6.Ex_test4 -- -DwriteVcd=1
+1617863729325:testOnly Lab6.Task2_test -- -DwriteVcd=1
+1617863943648:testOnly Lab6.Ex_test4 -- -DwriteVcd=1
+1617864332078:testOnly Lab6.Task2_test -- -DwriteVcd=1
+1617864689090:testOnly Lab6.Ex_test4 -- -DwriteVcd=1
+1617865593170:testOnly Lab6.Ex_test1 -- -DwriteVcd=1
+1617870182147:testOnly Lab6.Ex_test3 -- -DwriteVcd=1
+1617870572163:testOnly Lab6.Ex_test4 -- -DwriteVcd=1
+1617870853314:testOnly Lab6.Task4_test -- -DwriteVcd=1
+1617881161723:testOnly Lab7.Ex_test1 -- -DwriteVcd=1
+1617881429357:testOnly Lab6.Task4_test -- -DwriteVcd=1
+1617881435529:testOnly Lab7.Ex_test1 -- -DwriteVcd=1
+1617978970023:testOnly Lab7.Task1_test -- -DwriteVcd=1
+1617986831230:testOnly Lab7.Ex_test1 -- -DwriteVcd=1
+1617986867495:testOnly Lab7.Task1_test -- -DwriteVcd=1
+1618032805517:[A[B
+1618032894633:testOnly Lab7.Task2_test -- -DwriteVcd=1
+1618160809790:testOnly Lab8.Ex_test1 -- -DwriteVcd=1
+1618165338851:testOnly Lab8.Ex_test2 -- -DwriteVcd=1
+1618206527919:testOnly Lab8.Task1_test -- -DwriteVcd=1
+1618220123701:v
+1618220126093:testOnly Lab8.Task1_test -- -DwriteVcd=1
+1618220839866:testOnly Lab8.Ex_test3 -- -DwriteVcd=1
+1618221281100:testOnly Lab7.Task2_test -- -DwriteVcd=1
+1618224077889:testOnly Lab8.Task1_test -- -DwriteVcd=1
+1618491181145:testOnly Lab7.Task2_test -- -DwriteVcd=1
+1618572888881:testOnly Lab8.Ex_test2 -- -DwriteVcd=1
+1618573963640:testOnly Lab8.Ex_test1 -- -DwriteVcd=1

@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/monis/Desktop/chisel-quickstart/target/scala-2.12/chisel-quickstart_2.12-0.1.0-tests.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes/Test1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test1/Test1_Tests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes/Test1/Test1_Tests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes/gcd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCDSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes/gcd/GCDSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/gcd_tests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes/gcd/gcd_tests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes/Lab1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab1/EX_Tests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes/Lab1/EX_Tests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

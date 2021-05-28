@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly Lab3.Task3_test -- -DwriteVcd=1, Some(36ecd811-3e99-415e-82ab-a6d90ec63905), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTask3_test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Test3 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  chisel3.internal.ChiselException: Exception thrown when elaborating ChiselGeneratorAnnotation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.stage.ChiselGeneratorAnnotation.elaborate(ChiselAnnotations.scala:65)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.stage.phases.Elaborate.$anonfun$transform$1(Elaborate.scala:24)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.immutable.List.flatMap(List.scala:366)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.stage.phases.Elaborate.transform(Elaborate.scala:23)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.backends.treadle.TreadleExecutive$.start(TreadleExecutive.scala:35)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.defaults.package$.createDefaultTester(defaults.scala:24)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.ChiselScalatestTester$TestBuilder.apply(ChiselScalatestTester.scala:33)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Lab3.Task3_test.$anonfun$new$1(Task3_test.scala:10)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Cause: java.lang.NumberFormatException: For input string: "10 "[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.lang.Integer.parseInt(Integer.java:652)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.math.BigInteger.<init>(BigInteger.java:534)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.math.BigInt$.apply(BigInt.scala:86)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.package$fromStringToLiteral.parse(package.scala:95)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.package$fromStringToLiteral.asUInt(package.scala:79)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.package$fromStringToLiteral.U(package.scala:71)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Lab3.Task3_Lab3.$anonfun$new$6(Task3_Lab3.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.Data.$anonfun$$colon$eq$1(Data.scala:524)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 816 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	Lab3.Task3_test[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtestOnly[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 2 s, completed Mar 28, 2021, 4:13:21 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

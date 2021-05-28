@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly Lab6.Task2_test -- -DwriteVcd=1, Some(50b87458-8e93-4714-a2d6-fc1de4298968), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTask2_test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Test6 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.AssertionError: assertion failed: Error: getValue("io_out") : argument is not an element of this circuit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.Predef$.assert(Predef.scala:223)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.executable.ExecutionEngine.getValue(ExecutionEngine.scala:238)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.TreadleTester.peek(TreadleTester.scala:291)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.backends.treadle.TreadleBackend.peekBits(TreadleBackend.scala:77)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.backends.treadle.TreadleBackend.expectBits(TreadleBackend.scala:92)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.package$testableData.expectWithStale(package.scala:166)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.package$testableData.expect(package.scala:193)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Lab6.Task2_test.$anonfun$new$3(Task2_test.scala:13)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Lab6.Task2_test.$anonfun$new$3$adapted(Task2_test.scala:10)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.backends.treadle.TreadleBackend.$anonfun$run$1(TreadleBackend.scala:152)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 194 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	Lab6.Task2_test[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtestOnly[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 4 s, completed Apr 7, 2021, 1:55:36 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

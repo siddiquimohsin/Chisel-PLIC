@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly Lab2.Ex_test3 -- -DwriteVcd=1, Some(8ca1bd42-d648-48d4-8899-5f4c8151bb45), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/monis/Desktop/chisel-quickstart/target/scala-2.12/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/main/scala/Lab2/Exercise3_Lab2.scala:15:12: value out1 is not a member of chisel3.Bundle{val in0: chisel3.Bool; val in1: chisel3.Bool; val in2: chisel3.Bool; val in3: chisel3.Bool; val out2: chisel3.UInt}[0m
+[0m[[0m[31merror[0m] [0m[0m        io.out1 := Mux1H ( select , Seq ( "b00".U,"b01".U,"b10".U,"b11".U ))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Mar 23, 2021, 11:06:07 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

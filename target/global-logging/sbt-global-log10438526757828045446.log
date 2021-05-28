@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition json request: {"textDocument":{"uri":"file:///home/monis/Desktop/chisel-quickstart/src/main/scala/Lab7/Task1_Lab7.scala"},"position":{"line":22,"character":31}}[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition found line:     when ((state === s2 && (io.f1 === false.B && io.r1 === false.B)) || (state === s2 && (io.f1 === true.B)) || (state === s2 && (io.f1 === false.B) && (io.r1 === true.B))){[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;Test/compile; collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: $/cancelRequest: JsonRpcNotificationMessage(2.0, $/cancelRequest, {"id":7})[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: textDocument/didOpen: JsonRpcNotificationMessage(2.0, textDocument/didOpen, {"textDocument":{"uri":"file:///home/monis/Desktop/chisel-quickstart/src/main/scala/Lab7/Task2_lab7.scala","languageId":"scala","version":1,"text":""}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: textDocument/didOpen: JsonRpcNotificationMessage(2.0, textDocument/didOpen, {"textDocument":{"uri":"file:///home/monis/Desktop/chisel-quickstart/src/test/scala/Lab7/Task2_test.scala","languageId":"scala","version":1,"text":""}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled request received: shutdown: JsonRpcRequestMessage(2.0, ♨9, shutdown, null})[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition json request: {"textDocument":{"uri":"file:///home/monis/Desktop/chisel-quickstart/src/main/scala/Lab7/Task1_Lab7.scala"},"position":{"line":24,"character":91}}[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition found line:     }.elsewhen((state === s4 && (io.f2 === true.B)) || (state === s4 && (io.f2 === false.B && io.r2 === false.B)) || (state === s4 && (io.f2 === false.B ) && (io.r2 === true.B))){[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(Test/compile, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [true,null])[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [true,null])[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [true,null])[0m

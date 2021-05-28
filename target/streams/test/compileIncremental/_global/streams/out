@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 40 products, 40 sources, 6 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/test/scala/Lab2/Task2_test.scala, ${BASE}/src/test/scala/Lab3/Task2_test.scala, ${BASE}/src/test/scala/Lab6/Ex_test4.scala, ${BASE}/src/test/scala/Test1/Test1_Tests.scala, ${BASE}/src/test/scala/Lab5/Ex_test2.scala, ${BASE}/src/test/scala/Lab6/Ex_test3.scala, ${BASE}/src/test/scala/Lab6/Task3_test.scala, ${BASE}/src/test/scala/Lab4/Task2_test.scala, ${BASE}/src/test/scala/Lab3/Ex_test2.scala, ${BASE}/src/test/scala/Lab6/Task2_test.scala, ${BASE}/src/test/scala/Lab6/Ex_test2.scala, ${BASE}/src/test/scala/Lab2/Ex_test3.scala, ${BASE}/src/test/scala/Lab6/Task4_test.scala, ${BASE}/src/test/scala/Lab2/Ex_test2.scala, ${BASE}/src/test/scala/Lab7/Task2_test.scala, ${BASE}/src/test/scala/Lab7/Task1_test.scala, ${BASE}/src/test/scala/Lab1/Ex_test2.scala, ${BASE}/src/test/scala/gcd/gcd_tests.scala, ${BASE}/src/test/scala/Lab8/Ex_test1.scala, ${BASE}/src/test/scala/Lab6/Ex_test1.scala, ${BASE}/src/test/scala/Lab4/Task1_test.scala, ${BASE}/src/test/scala/Lab3/Ex_test1.scala, ${BASE}/src/test/scala/Lab5/Task1_test.scala, ${BASE}/src/test/scala/Lab5/Ex_test1.scala, ${BASE}/src/test/scala/Lab3/Task3_test.scala, ${BASE}/src/test/scala/Lab4/Ex_test1.scala, ${BASE}/src/test/scala/Lab2/Ex_test1.scala, ${BASE}/src/test/scala/Lab8/Task1_test.scala, ${BASE}/src/test/scala/Lab1/Task2_tests.scala, ${BASE}/src/test/scala/Lab7/Ex_test1.scala, ${BASE}/src/test/scala/Lab2/Task1_test.scala, ${BASE}/src/test/scala/Lab3/Task1_test.scala, ${BASE}/src/test/scala/Lab8/Ex_test2.scala, ${BASE}/src/test/scala/Lab1/Ex_test3.scala, ${BASE}/src/test/scala/Lab5/Ex_test3.scala, ${BASE}/src/test/scala/gcd/GCDSpec.scala, ${BASE}/src/test/scala/Lab5/Task3_test.scala, ${BASE}/src/test/scala/Lab1/Ex_tests.scala, ${BASE}/src/test/scala/Lab8/Ex_test3.scala, ${BASE}/src/test/scala/Lab5/Task2_test.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set(NamesChange(Lab8.Exercise1_Lab8$,ModifiedNames(changes = UsedName(bits,[Default]), UsedName(mask_mem,[Default]))), NamesChange(Lab8.Exercise1_Lab8,ModifiedNames(changes = UsedName(bits,[Default]), UsedName(mask_mem,[Default])))))[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe Lab8.Exercise1_Lab8$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(bits,[Default]), UsedName(mask_mem,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) Lab8.Exercise1_Lab8$: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNow invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) Lab8.Exercise1_Lab8$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of Lab8.Ex_test1. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe Lab8.Exercise1_Lab8 has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(bits,[Default]), UsedName(mask_mem,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) Lab8.Exercise1_Lab8: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNow invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) Lab8.Exercise1_Lab8.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of Lab8.Ex_test1. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

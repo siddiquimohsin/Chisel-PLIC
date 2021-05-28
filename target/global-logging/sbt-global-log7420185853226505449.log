@@ -1,0 +1,93 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly Lab4.Ex_test1 -- -DwriteVcd=1, Some(8f4d4ed4-5113-411b-ad68-94e8e11a47bb), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:25:13: not found: value aluop[0m
+[0m[[0m[31merror[0m] [0m[0m    switch (aluop) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:26:31: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is(ALU_ADD){ result = src_a + src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:26:39: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is(ALU_ADD){ result = src_a + src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:27:32: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SUB){ result = src_a - src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:27:40: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SUB){ result = src_a - src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:28:32: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_AND) {result = src_a & src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:28:40: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_AND) {result = src_a & src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:29:31: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_OR)  {result =src_a | src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:29:39: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_OR)  {result =src_a | src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:30:32: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_XOR)  {result =src_a ^ src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:30:40: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_XOR)  {result =src_a ^ src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:31:34: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SLT)  {result =( src_a .toInt < src_b .toInt )}[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:31:49: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SLT)  {result =( src_a .toInt < src_b .toInt )}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:32:32: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SLL)  {result =src_a << ( src_b & 0x1F )}[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:32:43: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SLL)  {result =src_a << ( src_b & 0x1F )}[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:33:35: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SLTU)  {result =( src_a < src_b )}[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:33:43: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SLTU)  {result =( src_a < src_b )}[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:34:32: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SRL)  {result =src_a >> ( src_b & 0x1F )}[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:34:43: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SRL)  {result =src_a >> ( src_b & 0x1F )}[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:35:32: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SRA)  {result =src_a .toInt >> ( src_b & 0x1F )}[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:35:50: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_SRA)  {result =src_a .toInt >> ( src_b & 0x1F )}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:36:35: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_COPY_A)  {result =src_a}[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:37:35: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m        is (ALU_COPY_B)  {result =src_b}[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:42:40: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: chisel3.Bool[0m
+[0m[[0m[31merror[0m] [0m[0m    val result1 : BigInt = when(result < 0){[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:49:25: not found: value src_a[0m
+[0m[[0m[31merror[0m] [0m[0m            c.io.A.poke(src_a.S)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:50:25: not found: value src_b[0m
+[0m[[0m[31merror[0m] [0m[0m            c.io.B.poke(src_b.S)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:51:29: not found: value aluop[0m
+[0m[[0m[31merror[0m] [0m[0m            c.io.Aluop.poke(aluop)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m27 errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Mar 31, 2021, 11:19:51 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

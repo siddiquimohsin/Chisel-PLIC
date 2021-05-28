@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly Lab4.Ex_test1 -- -DwriteVcd=1, Some(2f5e70c8-db2d-481a-b6f6-78cc70440876), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/monis/Desktop/chisel-quickstart/target/scala-2.12/test-classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:39:40: value toInt is not a member of AnyVal[0m
+[0m[[0m[31merror[0m] [0m[0m    val result1 : BigInt = if ( result.toInt() < 0)[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:40:31: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : AnyVal[0m
+[0m[[0m[31merror[0m] [0m[0m required: scala.math.BigInt[0m
+[0m[[0m[31merror[0m] [0m[0m    ( BigInt (0xFFFFFFFFL ) + result +1) & 0xFFFFFFFFL[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/chisel-quickstart/src/test/scala/Lab4/Ex_test1.scala:41:17: value & is not a member of AnyVal[0m
+[0m[[0m[31merror[0m] [0m[0m    else result & 0xFFFFFFFFL[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Mar 30, 2021, 11:37:01 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
